@@ -1,6 +1,4 @@
-# Astro_sign
-
-Command line program for an astrology-based application. User can get prediction based on his zodiac sign. 
+# Command line program for an astrology-based application. User can get prediction based on his zodiac sign. 
 
 ## commands help
 
