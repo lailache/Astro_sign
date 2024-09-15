@@ -17,3 +17,9 @@ python -m astro_sign.main --help
 ```bash
 python -m astro_sign.main --prefill --users
 ```
+
+### predictions prints out prediction based on zodiac sign
+
+```bash
+python -m astro_sign.main --predictions
+```
